@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ILoveYouApp.github.io/static/css/main.63c16fa4.css",
+    "main.js": "/ILoveYouApp.github.io/static/js/main.775f821c.js",
+    "static/js/787.d7a81f0f.chunk.js": "/ILoveYouApp.github.io/static/js/787.d7a81f0f.chunk.js",
+    "static/media/heart.svg": "/ILoveYouApp.github.io/static/media/heart.a0e5dee4bc80b6b56f62899b78cf4c2d.svg",
+    "index.html": "/ILoveYouApp.github.io/index.html",
+    "main.63c16fa4.css.map": "/ILoveYouApp.github.io/static/css/main.63c16fa4.css.map",
+    "main.775f821c.js.map": "/ILoveYouApp.github.io/static/js/main.775f821c.js.map",
+    "787.d7a81f0f.chunk.js.map": "/ILoveYouApp.github.io/static/js/787.d7a81f0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c16fa4.css",
+    "static/js/main.775f821c.js"
+  ]
+}
